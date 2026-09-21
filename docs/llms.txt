@@ -1,0 +1,10 @@
+# diScoRD-yoUTUBe-fIX
+
+diScoRD-yoUTUBe-fIX — сборка zapret под Discord, YouTube и Telegram сразу. Без VPN, без подписки.
+
+diScoRD-yoUTUBe-fIX — сборка zapret под Discord, YouTube и Telegram сразу. Без VPN, без подписки. обход блокировок без VPN, обход DPI Windows, zapret скачать, Discord и YouTube fix. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/Trackerenhonor/diScoRD-yoUTUBe-fIX/releases/latest
+Код: https://github.com/Trackerenhonor/diScoRD-yoUTUBe-fIX
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/Trackerenhonor/diScoRD-yoUTUBe-fIX
